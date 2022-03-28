@@ -1,0 +1,15 @@
+linux, YAML, Groovy
+Shell scripting: powershell, bash, Python
+Practice, commands
+
+git, github 2.3
+Java 1.8.0_239
+maven 3.4.8, 3.3.9
+jenkins 
+NEXUS 2.1.49-01  3.37.1-01
+terraform
+anisble
+azure/aws
+docker
+kubernates
+PROMUTHOS, Grafana
