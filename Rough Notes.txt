@@ -1,0 +1,25 @@
+explain about project?
+client The Procter & Gamble Company (P&G) is an American multinational consumer goods corporation headquartered in Cincinnati, Ohio,
+client location
+what service offered
+how we are helping to client
+use to client
+roles and resposibility in project
+
+https://dev.azure.com/madhubalasadi1/
+
+3avzu4vngm6lilnwv6j5t5ig4hjag7mokc3xf2b5d42pwcl54ohq
+
+yum remove git*
+sudo yum -y install https://packages.endpoint.com/rhel/7/os/x86_64/endpoint-repo-1.7-1.x86_64.rpm
+sudo yum install git
+
+sudo yum -y install https://packages.endpoint.com/rhel/7/os/x86_64/endpoint-repo-1.7-1.x86_64.rpm
+sudo yum install git -y
+
+
+yum install http://opensource.wandisco.com/centos/6/git/x86_64/wandisco-git-release-6-1.noarch.rpm
+- or -
+yum install http://opensource.wandisco.com/centos/7/git/x86_64/wandisco-git-release-7-1.noarch.rpm
+- or -
+yum install http://opensource.wandisco.com/centos/7/git/x86_64/wandisco-git-release-7-2.noarch.rpm
